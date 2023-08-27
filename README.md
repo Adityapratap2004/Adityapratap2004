@@ -81,7 +81,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityapratap2004.Adityapratap2004&left_text=Profile views"  />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityapratap2004.Adityapratap2004&left_text=Profile views"  /> -->
+  ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Adityapratap2004.Adityapratap2004)
+
 </div>
 
 ###
