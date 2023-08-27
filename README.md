@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e474z8djhv2si1x1pt8ivfh98avzpxne6uzz9sc7leu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
@@ -76,13 +78,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityapratap2004.Adityapratap2004&left_text=Profile views"  />
 </div>
 
 ###
-
-<!---
-Adityapratap2004/Adityapratap2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
