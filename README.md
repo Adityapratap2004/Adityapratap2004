@@ -104,10 +104,5 @@
 
 ###
 
-<br clear="both">
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityapratap2004.Adityapratap2004&left_text=Profile views"  />
-</div>
 
-###
