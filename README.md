@@ -98,9 +98,9 @@
 
 ###
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Adityapratap2004&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Adityapratap2004&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+
 
 ###
 
